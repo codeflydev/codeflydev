@@ -1,16 +1,17 @@
-## Hi there 👋
+ 👋 Merhaba, ben Baran
 
-<!--
-**codeflydev/codeflydev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Yapay zeka destekli **web sistemleri** ve **modern web tasarımları** geliştiriyorum.
 
-Here are some ideas to get you started:
+Projelerimde önceliğim:
+- Ölçeklenebilirlik
+- Performans
+- Kullanıcı deneyimi
+- Uzun vadeli sürdürülebilir sistemler
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+AI, otomasyon ve web teknolojilerini birleştirerek **akıllı dijital çözümler** üretmeyi hedefliyorum.
+Özellikle **analiz sistemleri**, **SaaS projeleri** ve **API tabanlı platformlar** üzerine çalışıyorum.
+
+### 🎯 Hedefim
+> Sadece site değil, çalışan akıllı sistemler geliştirmek.
+
+🚀 Sürekli öğrenen, üreten ve geliştiren bir geliştiriciyim.
