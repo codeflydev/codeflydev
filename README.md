@@ -1,17 +1,24 @@
- 👋 Merhaba, ben Baran
+👋 Hi, I'm Baran
 
-Yapay zeka destekli **web sistemleri** ve **modern web tasarımları** geliştiriyorum.
+I’m a developer focused on building **AI-powered web systems** and **modern web design solutions**.
 
-Projelerimde önceliğim:
-- Ölçeklenebilirlik
-- Performans
-- Kullanıcı deneyimi
-- Uzun vadeli sürdürülebilir sistemler
+My main goal is to create **scalable, secure and user-focused digital products** by combining:
+- 🤖 Artificial Intelligence & automation
+- 🌐 Modern web technologies
+- ⚙️ Clean, maintainable system architecture
 
-AI, otomasyon ve web teknolojilerini birleştirerek **akıllı dijital çözümler** üretmeyi hedefliyorum.
-Özellikle **analiz sistemleri**, **SaaS projeleri** ve **API tabanlı platformlar** üzerine çalışıyorum.
+I enjoy working on projects that turn **real-world problems into smart digital solutions**.
+From **AI-based analysis systems** to **SaaS platforms**, I focus on performance, usability and long-term scalability.
 
-### 🎯 Hedefim
-> Sadece site değil, çalışan akıllı sistemler geliştirmek.
+### 🧠 What I work on
+- AI-powered web applications  
+- API-based systems & integrations  
+- Automation tools  
+- SaaS & startup-oriented projects  
 
-🚀 Sürekli öğrenen, üreten ve geliştiren bir geliştiriciyim.
+### 💡 Philosophy
+> Build smart systems, not just websites.
+
+I believe that the future of web development lies in **intelligent, adaptive and data-driven platforms**.
+
+🚀 Always learning. Always building.
